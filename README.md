@@ -26,7 +26,7 @@ A deep learning-based system for classifying skin lesions into three categories:
 
 - **​​Preprocessing**​​: Oversampling, data augmentation, and normalization
 
-​​- **Models**​​: SVM, Random Forest, CNN, ResNet-50
+- **Models**​​: SVM, Random Forest, CNN, ResNet-50
 
 - **​​Evaluation**​​: Confusion matrices, classification reports, performance metrics
 
